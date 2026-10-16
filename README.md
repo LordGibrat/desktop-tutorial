@@ -1,5 +1,11 @@
-# Welcome to GitHub Desktop!
+# GitHub Desktop tutorial
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+This repository contains the starter README created by GitHub Desktop. It is a small practice space for learning the commit-and-publish workflow; there is no application code or install step here yet.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+## Getting started
+
+1. Clone this repository with GitHub Desktop.
+2. Edit this README or add a practice file.
+3. Review the change, create a commit, and publish it to GitHub.
+
+For a first project with runnable code, see the other repositories on [LordGibrat's GitHub profile](https://github.com/LordGibrat?tab=repositories).
